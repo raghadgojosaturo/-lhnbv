@@ -1,0 +1,6 @@
+elevenlabs==2.27.0
+google-genai==1.56.0
+google-generativeai==0.8.6
+SpeechRecognition==3.14.5
+pygame==2.6.1
+PyAudio==0.2.14
